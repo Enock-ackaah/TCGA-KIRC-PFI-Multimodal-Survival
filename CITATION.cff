@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "TCGA-KIRC Clinical and RNA-seq Survival Prediction"
+type: software
+authors:
+  - family-names: "Ackaah"
+    given-names: "Enock Kumi"
+repository-code: "https://github.com/Enock-ackaah/TCGA-KIRC-PFI-Multimodal-Survival"
+date-released: 2026-08-17
+license: MIT
+keywords:
+  - TCGA-KIRC
+  - survival analysis
+  - RNA-seq
+  - multimodal modeling
+  - Cox regression
+  - nested cross-validation
+  - biomedical machine learning

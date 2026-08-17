@@ -1,0 +1,20 @@
+# Raw TCGA downloads
+01_raw_downloads/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary/system files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Large derived expression matrices
+03_processed_data/TCGA_KIRC_raw_gene_count_matrix.csv
+03_processed_data/TCGA_KIRC_reference_log2CPM_protein_coding_matrix.csv
+03_processed_data/TCGA_KIRC_reference_protein_coding_count_matrix.csv

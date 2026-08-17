@@ -1,0 +1,13 @@
+Result,Value
+Clinical mean repeated C-index,0.812006
+RNA mean repeated C-index,0.71728
+Multimodal mean repeated C-index,0.79891
+Multimodal minus Clinical C-index,-0.013095
+Multimodal minus Clinical repeat-level CI lower,-0.0188
+Multimodal minus Clinical repeat-level CI upper,-0.0062
+Mean pairwise gene Jaccard,0.3251
+Genes selected >= 40 of 50 models,6.0
+Multimodal KM mean log-rank chi-square,97.294407
+Clinical IBS,0.13101
+RNA IBS,0.169536
+Multimodal IBS,0.139939

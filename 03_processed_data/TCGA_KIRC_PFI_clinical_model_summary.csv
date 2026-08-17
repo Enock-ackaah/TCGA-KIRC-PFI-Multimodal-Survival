@@ -1,0 +1,2 @@
+Model,Predictors,Endpoint,N,Events,Mean outer-fold C-index,SD outer-fold C-index
+Clinical-only Cox PH,Age at Index + Tumor Grade + AJCC Stage,PFI,529,159,0.8130467214072006,0.04807864729497017

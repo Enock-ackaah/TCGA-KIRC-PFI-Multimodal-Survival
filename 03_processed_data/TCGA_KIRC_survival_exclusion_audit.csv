@@ -1,0 +1,5 @@
+Case ID,Endpoint,Reason
+TCGA-BP-5201,PFI,PFI event recorded but PFI.time missing
+TCGA-CJ-4641,PFI,PFI event recorded but PFI.time missing
+TCGA-A3-A8OU,PFI and OS,Zero follow-up time; censored at day 0
+TCGA-A3-A8OX,PFI and OS,Zero follow-up time; censored at day 0

@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scikit-survival
+lifelines
+scipy
+jupyterlab
